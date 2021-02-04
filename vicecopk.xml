@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DISNEY XD">
+    <display-name lang="es">DISNEY XD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210203001100 -0600" stop="20210203002300 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203002300 -0600" stop="20210203003500 -0600" channel="DISNEY XD">
+    <title lang="es">Pickle y Maní</title>
+  </programme>
+  <programme start="20210203003500 -0600" stop="20210203004800 -0600" channel="DISNEY XD">
+    <title lang="es">Gusano del futuro</title>
+  </programme>
+  <programme start="20210203004800 -0600" stop="20210203010900 -0600" channel="DISNEY XD">
+    <title lang="es">O11CE</title>
+  </programme>
+  <programme start="20210203010900 -0600" stop="20210203013200 -0600" channel="DISNEY XD">
+    <title lang="es">Kick Buttowski: Medio doble de riesgo</title>
+  </programme>
+  <programme start="20210203013200 -0600" stop="20210203015400 -0600" channel="DISNEY XD">
+    <title lang="es">O11CE</title>
+  </programme>
+  <programme start="20210203015400 -0600" stop="20210203021600 -0600" channel="DISNEY XD">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20210203021600 -0600" stop="20210203023800 -0600" channel="DISNEY XD">
+    <title lang="es">La ley de Milo Murphy</title>
+  </programme>
+  <programme start="20210203023800 -0600" stop="20210203030000 -0600" channel="DISNEY XD">
+    <title lang="es">Campamento Lakebottom</title>
+  </programme>
+  <programme start="20210203030000 -0600" stop="20210203032300 -0600" channel="DISNEY XD">
+    <title lang="es">Un verano de misterio</title>
+  </programme>
+  <programme start="20210203032300 -0600" stop="20210203034500 -0600" channel="DISNEY XD">
+    <title lang="es">Star vs. the Forces of Evil</title>
+  </programme>
+  <programme start="20210203034500 -0600" stop="20210203040700 -0600" channel="DISNEY XD">
+    <title lang="es">Los vecinos Green</title>
+  </programme>
+  <programme start="20210203040700 -0600" stop="20210203042900 -0600" channel="DISNEY XD">
+    <title lang="es">Un verano de misterio</title>
+  </programme>
+  <programme start="20210203042900 -0600" stop="20210203045200 -0600" channel="DISNEY XD">
+    <title lang="es">Un verano de misterio</title>
+  </programme>
+  <programme start="20210203045200 -0600" stop="20210203051500 -0600" channel="DISNEY XD">
+    <title lang="es">Star vs. the Forces of Evil</title>
+  </programme>
+  <programme start="20210203051500 -0600" stop="20210203053700 -0600" channel="DISNEY XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210203053700 -0600" stop="20210203060000 -0600" channel="DISNEY XD">
+    <title lang="es">Los vecinos Green</title>
+  </programme>
+  <programme start="20210203060000 -0600" stop="20210203061500 -0600" channel="DISNEY XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210203061500 -0600" stop="20210203063000 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203063000 -0600" stop="20210203065000 -0600" channel="DISNEY XD">
+    <title lang="es">Un verano de misterio</title>
+  </programme>
+  <programme start="20210203065000 -0600" stop="20210203070000 -0600" channel="DISNEY XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210203070000 -0600" stop="20210203071500 -0600" channel="DISNEY XD">
+    <title lang="es">Star vs. the Forces of Evil</title>
+  </programme>
+  <programme start="20210203071500 -0600" stop="20210203073000 -0600" channel="DISNEY XD">
+    <title lang="es">Cupcake &amp; Dino Servicios generales</title>
+  </programme>
+  <programme start="20210203073000 -0600" stop="20210203075000 -0600" channel="DISNEY XD">
+    <title lang="es">Hercules</title>
+  </programme>
+  <programme start="20210203075000 -0600" stop="20210203080000 -0600" channel="DISNEY XD">
+    <title lang="es">Mickey Mouse</title>
+  </programme>
+  <programme start="20210203080000 -0600" stop="20210203083000 -0600" channel="DISNEY XD">
+    <title lang="es">Las aventuras de Timón y Pumba</title>
+  </programme>
+  <programme start="20210203083000 -0600" stop="20210203085500 -0600" channel="DISNEY XD">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20210203085500 -0600" stop="20210203090000 -0600" channel="DISNEY XD">
+    <title lang="es">Randy Cunningham 9th Grade Ninja</title>
+  </programme>
+  <programme start="20210203090000 -0600" stop="20210203091500 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203091500 -0600" stop="20210203093000 -0600" channel="DISNEY XD">
+    <title lang="es">Gusano del futuro</title>
+  </programme>
+  <programme start="20210203093000 -0600" stop="20210203094500 -0600" channel="DISNEY XD">
+    <title lang="es">Pickle y Maní</title>
+  </programme>
+  <programme start="20210203094500 -0600" stop="20210203100000 -0600" channel="DISNEY XD">
+    <title lang="es">Randy Cunningham 9th Grade Ninja</title>
+  </programme>
+  <programme start="20210203100000 -0600" stop="20210203100900 -0600" channel="DISNEY XD">
+    <title lang="es">Un verano de misterio</title>
+  </programme>
+  <programme start="20210203100900 -0600" stop="20210203103000 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203103000 -0600" stop="20210203104500 -0600" channel="DISNEY XD">
+    <title lang="es">Los vecinos Green</title>
+  </programme>
+  <programme start="20210203104500 -0600" stop="20210203110000 -0600" channel="DISNEY XD">
+    <title lang="es">Pollos espaciales del espacio</title>
+  </programme>
+  <programme start="20210203110000 -0600" stop="20210203111500 -0600" channel="DISNEY XD">
+    <title lang="es">Boris y Rufus</title>
+  </programme>
+  <programme start="20210203111500 -0600" stop="20210203113000 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203113000 -0600" stop="20210203114500 -0600" channel="DISNEY XD">
+    <title lang="es">Los vecinos Green</title>
+  </programme>
+  <programme start="20210203114500 -0600" stop="20210203120000 -0600" channel="DISNEY XD">
+    <title lang="es">Pickle y Maní</title>
+  </programme>
+  <programme start="20210203120000 -0600" stop="20210203121500 -0600" channel="DISNEY XD">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20210203121500 -0600" stop="20210203123000 -0600" channel="DISNEY XD">
+    <title lang="es">Gusano del futuro</title>
+  </programme>
+  <programme start="20210203123000 -0600" stop="20210203130000 -0600" channel="DISNEY XD">
+    <title lang="es">Marvel Spider-Man</title>
+  </programme>
+  <programme start="20210203130000 -0600" stop="20210203131000 -0600" channel="DISNEY XD">
+    <title lang="es">Trollhunters de Guillermo del Toro - Relatos de Arcadia</title>
+  </programme>
+  <programme start="20210203131000 -0600" stop="20210203133000 -0600" channel="DISNEY XD">
+    <title lang="es">Galaxia Wander</title>
+  </programme>
+  <programme start="20210203133000 -0600" stop="20210203140000 -0600" channel="DISNEY XD">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20210203140000 -0600" stop="20210203141500 -0600" channel="DISNEY XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210203141500 -0600" stop="20210203143000 -0600" channel="DISNEY XD">
+    <title lang="es">Kick Buttowski: Medio doble de riesgo</title>
+  </programme>
+  <programme start="20210203143000 -0600" stop="20210203144500 -0600" channel="DISNEY XD">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20210203144500 -0600" stop="20210203150000 -0600" channel="DISNEY XD">
+    <title lang="es">Los vecinos Green</title>
+  </programme>
+  <programme start="20210203150000 -0600" stop="20210203151500 -0600" channel="DISNEY XD">
+    <title lang="es">Cupcake &amp; Dino Servicios generales</title>
+  </programme>
+  <programme start="20210203151500 -0600" stop="20210203153000 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203153000 -0600" stop="20210203160000 -0600" channel="DISNEY XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210203160000 -0600" stop="20210203161500 -0600" channel="DISNEY XD">
+    <title lang="es">Galaxia Wander</title>
+  </programme>
+  <programme start="20210203161500 -0600" stop="20210203163000 -0600" channel="DISNEY XD">
+    <title lang="es">Pickle y Maní</title>
+  </programme>
+  <programme start="20210203163000 -0600" stop="20210203164500 -0600" channel="DISNEY XD">
+    <title lang="es">Cupcake &amp; Dino Servicios generales</title>
+  </programme>
+  <programme start="20210203164500 -0600" stop="20210203165200 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203165200 -0600" stop="20210203170000 -0600" channel="DISNEY XD">
+    <title lang="es">Larva</title>
+  </programme>
+  <programme start="20210203170000 -0600" stop="20210203171500 -0600" channel="DISNEY XD">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20210203171500 -0600" stop="20210203172200 -0600" channel="DISNEY XD">
+    <title lang="es">Kick Buttowski: Medio doble de riesgo</title>
+  </programme>
+  <programme start="20210203172200 -0600" stop="20210203173000 -0600" channel="DISNEY XD">
+    <title lang="es">Randy Cunningham 9th Grade Ninja</title>
+  </programme>
+  <programme start="20210203173000 -0600" stop="20210203174500 -0600" channel="DISNEY XD">
+    <title lang="es">Pollos espaciales del espacio</title>
+  </programme>
+  <programme start="20210203174500 -0600" stop="20210203180000 -0600" channel="DISNEY XD">
+    <title lang="es">Star vs. the Forces of Evil</title>
+  </programme>
+  <programme start="20210203180000 -0600" stop="20210203183000 -0600" channel="DISNEY XD">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20210203183000 -0600" stop="20210203190000 -0600" channel="DISNEY XD">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20210203190000 -0600" stop="20210203191500 -0600" channel="DISNEY XD">
+    <title lang="es">The Owl House La casa Búho</title>
+  </programme>
+  <programme start="20210203191500 -0600" stop="20210203193000 -0600" channel="DISNEY XD">
+    <title lang="es">Gusano del futuro</title>
+  </programme>
+  <programme start="20210203193000 -0600" stop="20210203200000 -0600" channel="DISNEY XD">
+    <title lang="es">Trollhunters de Guillermo del Toro - Relatos de Arcadia</title>
+  </programme>
+  <programme start="20210203200000 -0600" stop="20210203201500 -0600" channel="DISNEY XD">
+    <title lang="es">La ley de Milo Murphy</title>
+  </programme>
+  <programme start="20210203201500 -0600" stop="20210203203000 -0600" channel="DISNEY XD">
+    <title lang="es">Pickle y Maní</title>
+  </programme>
+  <programme start="20210203203000 -0600" stop="20210203204500 -0600" channel="DISNEY XD">
+    <title lang="es">Randy Cunningham 9th Grade Ninja</title>
+  </programme>
+  <programme start="20210203204500 -0600" stop="20210203210000 -0600" channel="DISNEY XD">
+    <title lang="es">Pollos espaciales del espacio</title>
+  </programme>
+  <programme start="20210203210000 -0600" stop="20210203211500 -0600" channel="DISNEY XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210203211500 -0600" stop="20210203213000 -0600" channel="DISNEY XD">
+    <title lang="es">Kick Buttowski: Medio doble de riesgo</title>
+  </programme>
+  <programme start="20210203213000 -0600" stop="20210203220000 -0600" channel="DISNEY XD">
+    <title lang="es">Trollhunters de Guillermo del Toro - Relatos de Arcadia</title>
+  </programme>
+  <programme start="20210203220000 -0600" stop="20210203221500 -0600" channel="DISNEY XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210203221500 -0600" stop="20210203223000 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203223000 -0600" stop="20210203224500 -0600" channel="DISNEY XD">
+    <title lang="es">Randy Cunningham 9th Grade Ninja</title>
+  </programme>
+  <programme start="20210203224500 -0600" stop="20210203230000 -0600" channel="DISNEY XD">
+    <title lang="es">Los vecinos Green</title>
+  </programme>
+  <programme start="20210203230000 -0600" stop="20210203231500 -0600" channel="DISNEY XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20210203231500 -0600" stop="20210203233000 -0600" channel="DISNEY XD">
+    <title lang="es">Gusano del futuro</title>
+  </programme>
+  <programme start="20210203233000 -0600" stop="20210203234500 -0600" channel="DISNEY XD">
+    <title lang="es">Star vs. the Forces of Evil</title>
+  </programme>
+  <programme start="20210203234500 -0600" stop="20210204000000 -0600" channel="DISNEY XD">
+    <title lang="es">Randy Cunningham 9th Grade Ninja</title>
+  </programme>
+</tv>
